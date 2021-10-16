@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package >
+  <metadata>
+    <id>Ceyhan.GenericResponse</id>
+    <version>$version$</version>
+    <title>$title$</title>
+    <authors>Emre Ceyhan</authors>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <license type="expression">MIT</license>
+    <projectUrl>https://github.com/aecceyhan/GenericResponse</projectUrl>
+    <repository type="git" url="https://github.com/aecceyhan/GenericResponse" />
+    <description>Helps to return generic responses</description>
+    <releaseNotes>First release</releaseNotes>
+    <copyright>$copyright$</copyright>
+  </metadata>
+</package>
