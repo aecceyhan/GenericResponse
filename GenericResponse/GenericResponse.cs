@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace GenericResponse
+namespace Ceyhan.GenericResponse
 {
     public class GenericResponse<T> 
     {
